@@ -4,7 +4,7 @@ const reverseString = function(str) {
         reversedString += str[i];
     }
     return reversedString;
-};
+}; 
 
 // Do not edit below this line
 module.exports = reverseString;
