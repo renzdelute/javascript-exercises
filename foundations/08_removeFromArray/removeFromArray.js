@@ -1,7 +1,7 @@
 const removeFromArray = function() {
-    const newArray = [1, 2, 3, 4];
+    const newArray = [];
 
-    
+    i
 };
 
 // Do not edit below this line
